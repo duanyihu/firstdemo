@@ -13,6 +13,7 @@ class DemogitApplicationTests {
     void contextLoads() {
         System.out.println("第一次测试");
         System.out.println("第二次测试");
+        System.out.println("第三次测试");
     }
 
 }
